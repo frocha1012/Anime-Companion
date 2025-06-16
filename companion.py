@@ -5,7 +5,7 @@ from PyQt5.QtCore import Qt, QBuffer, QByteArray, QPoint
 from PyQt5.QtGui import QMovie, QCursor
 from PyQt5.QtWidgets import QApplication, QLabel, QWidget, QMenu
 
-GIF_URL = "https://i.imgur.com/DjhYibi.gif"  # Transparent Lain GIF
+GIF_URL = "https://i.imgur.com/i5PKbBq.gif"  # Transparent Lain GIF "https://i.imgur.com/DjhYibi.gif"
 
 class LainCompanion(QWidget):
     def __init__(self, gif_data):
